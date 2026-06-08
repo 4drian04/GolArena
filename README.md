@@ -1,6 +1,6 @@
-# ⚽ LigaFan
+# ⚽ GolArena
 
-LigaFan es una aplicación Android diseñada para los aficionados al fútbol español. Mantente al día con las últimas noticias de La Liga, demuestra tus conocimientos deportivos en divertidos trivials y colecciona a tus jugadores favoritos mientras amplías tu colección de cartas.
+GolArena es una aplicación Android diseñada para los aficionados al fútbol español. Mantente al día con las últimas noticias de La Liga, demuestra tus conocimientos deportivos en divertidos trivials y colecciona a tus jugadores favoritos mientras amplías tu colección de cartas.
 
 ## 📱 Características
 
