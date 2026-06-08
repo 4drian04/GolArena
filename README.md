@@ -76,12 +76,9 @@ git clone https://github.com/4drian04/GolArena.git
 
 ## 🛠️ Tecnologías utilizadas
 
-- Kotlin
+- Java
 - Android Studio
-- Android Jetpack
-- Retrofit
 - Room Database
-- Material Design
 - API de noticias deportivas
 - Chatbot basado en IA (experimental)
 
