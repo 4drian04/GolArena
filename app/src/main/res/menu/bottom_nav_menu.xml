@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_news"
+        android:icon="@drawable/ic_news"
+        android:title="Noticias" />
+
+    <item
+        android:id="@+id/nav_quiz"
+        android:icon="@drawable/ic_quiz"
+        android:title="Quiz" />
+
+    <item
+        android:id="@+id/nav_sobres"
+        android:icon="@drawable/jugador_de_futbol"
+        android:title="Jugadores" />
+    <item
+        android:id="@+id/nav_store"
+        android:icon="@drawable/icon_shopping_bag"
+        android:title="Tienda" />
+
+    <item
+        android:id="@+id/nav_chatbot"
+        android:icon="@drawable/icon_chatbot"
+        android:title="Chatbot" />
+</menu>

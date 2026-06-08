@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    app:cardCornerRadius="18dp"
+    app:cardElevation="8dp"
+    app:strokeWidth="1dp"
+    app:strokeColor="?attr/colorOutlineVariant"
+    android:foreground="?attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- CONTENEDOR IMAGEN -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="220dp">
+
+            <!-- IMAGEN CARTA -->
+            <ImageView
+                android:id="@+id/imgJugador"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:adjustViewBounds="true"/>
+
+            <!-- OVERLAY OSCURO SUTIL -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/gradient_card_overlay"/>
+
+            <!-- PRECIO -->
+            <LinearLayout
+                android:id="@+id/layoutPrecio"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_gravity="top|end"
+                android:layout_margin="10dp"
+                android:paddingHorizontal="10dp"
+                android:gravity="center_vertical"
+                android:background="@drawable/bg_price_tag"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:src="@drawable/monedas"/>
+
+                <TextView
+                    android:id="@+id/txtPrecio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:text="1200"
+                    android:textStyle="bold"
+                    android:textColor="@color/gold"/>
+            </LinearLayout>
+            <FrameLayout
+                android:id="@+id/layoutParticulas"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clipChildren="false"
+                android:clipToPadding="false"/>
+
+            <!-- EFECTO BRILLO COMPRA -->
+            <View
+                android:id="@+id/viewCompraGlow"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/glow_effect"
+                android:alpha="0"/>
+        </FrameLayout>
+
+        <!-- BOTÓN COMPRAR -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnComprar"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="Comprar"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:layout_margin="12dp"
+            app:cornerRadius="14dp"
+            app:backgroundTint="@color/gold"
+            app:rippleColor="@color/white"/>
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

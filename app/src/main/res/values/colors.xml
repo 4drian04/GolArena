@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Color principal de la app -->
+    <color name="primary">#1E88E5</color> <!-- azul estilo Google -->
+    <!-- Color del texto principal sobre fondo claro -->
+    <color name="onSurface">#212121</color> <!-- casi negro -->
+    <!-- Color de texto secundario -->
+    <color name="onSurfaceVariant">#616161</color> <!-- gris -->
+    <!-- Fondo de la app -->
+    <color name="backgroundColor">#FAFAFA</color>
+    <color name="bg_dark">#0F1115</color>
+    <color name="card_dark">#1A1D23</color>
+    <color name="gold">#FFD54F</color>
+    <color name="gray_text">#B0B3B8</color>
+    <color name="green_success">#4BB543</color>
+    <color name="dark_gray">#2C2C2C</color>
+</resources>

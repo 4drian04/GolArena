@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:layout_marginVertical="8dp"
+    android:layout_marginHorizontal="6dp"
+    app:cardCornerRadius="18dp"
+    app:cardElevation="6dp"
+    app:cardBackgroundColor="@color/card_dark">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <!-- IMAGEN JUGADOR -->
+        <ImageView
+            android:id="@+id/imgCarta"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:background="@drawable/bg_img_player"
+            android:clipToOutline="true"
+            android:src="@drawable/jugador"/>
+
+        <!-- INFO JUGADOR -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:paddingStart="14dp"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/txtNombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nombre del jugador"
+                android:textSize="19sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:maxLines="1"
+                android:ellipsize="end"/>
+
+            <View
+                android:layout_width="48dp"
+                android:layout_height="2dp"
+                android:layout_marginVertical="6dp"
+                android:background="@color/gold"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnVender"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="VENDER"
+                android:textStyle="bold"
+                android:textColor="@color/bg_dark"
+                app:cornerRadius="20dp"
+                app:backgroundTint="@color/gold"
+                android:elevation="6dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

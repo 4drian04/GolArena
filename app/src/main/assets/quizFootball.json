@@ -1,0 +1,1178 @@
+[
+  {
+    "pregunta": "¿Quién ganó el Mundial de Fútbol 2018?",
+    "opciones": ["Brasil", "Francia", "Croacia", "Alemania"],
+    "respuestaCorrecta": "Francia",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador tiene más Balones de Oro?",
+    "opciones": ["Cristiano Ronaldo", "Lionel Messi", "Ronaldinho", "Zinedine Zidane"],
+    "respuestaCorrecta": "Lionel Messi",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Cuál es el club con más Champions League ganadas?",
+    "opciones": ["Real Madrid", "AC Milan", "Liverpool", "Barcelona"],
+    "respuestaCorrecta": "Real Madrid",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿En qué país se originó el fútbol moderno?",
+    "opciones": ["España", "Inglaterra", "Italia", "Alemania"],
+    "respuestaCorrecta": "Inglaterra",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué selección nacional tiene el apodo de 'La Albiceleste'?",
+    "opciones": ["Argentina", "Italia", "Uruguay", "Paraguay"],
+    "respuestaCorrecta": "Argentina",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Quién marcó el famoso 'Gol del Siglo' en 1986?",
+    "opciones": ["Pelé", "Diego Maradona", "Michel Platini", "Gary Lineker"],
+    "respuestaCorrecta": "Diego Maradona",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué equipo ganó la Premier League 2020-2021?",
+    "opciones": ["Manchester United", "Manchester City", "Liverpool", "Chelsea"],
+    "respuestaCorrecta": "Manchester City",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Cuál es el máximo goleador histórico de la Copa del Mundo?",
+    "opciones": ["Miroslav Klose", "Ronaldo Nazário", "Gerd Müller", "Lionel Messi"],
+    "respuestaCorrecta": "Miroslav Klose",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club argentino tiene el apodo 'Los Xeneizes'?",
+    "opciones": ["River Plate", "Boca Juniors", "Independiente", "Racing Club"],
+    "respuestaCorrecta": "Boca Juniors",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Eurocopa 2020?",
+    "opciones": ["Italia", "Inglaterra", "España", "Francia"],
+    "respuestaCorrecta": "Italia",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador es conocido como 'CR7'?",
+    "opciones": ["Cristiano Ronaldo", "Cesc Fàbregas", "Carlos Tévez", "Raúl González"],
+    "respuestaCorrecta": "Cristiano Ronaldo",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Cuál es el equipo con más títulos de LaLiga española?",
+    "opciones": ["Barcelona", "Real Madrid", "Atlético de Madrid", "Valencia"],
+    "respuestaCorrecta": "Real Madrid",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿En qué año se fundó la FIFA?",
+    "opciones": ["1904", "1920", "1898", "1910"],
+    "respuestaCorrecta": "1904",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Copa América 2021?",
+    "opciones": ["Brasil", "Argentina", "Uruguay", "Chile"],
+    "respuestaCorrecta": "Argentina",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Quién es el máximo goleador histórico de la Premier League?",
+    "opciones": ["Wayne Rooney", "Alan Shearer", "Thierry Henry", "Harry Kane"],
+    "respuestaCorrecta": "Alan Shearer",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club tiene el apodo de 'Los Red Devils'?",
+    "opciones": ["Liverpool", "Manchester United", "Arsenal", "Chelsea"],
+    "respuestaCorrecta": "Manchester United",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador brasileño es famoso por su ‘joga bonito’ y ganó dos Mundiales?",
+    "opciones": ["Pelé", "Ronaldinho", "Ronaldo Nazário", "Neymar"],
+    "respuestaCorrecta": "Pelé",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Cuál fue el primer país en ganar dos Copas del Mundo?",
+    "opciones": ["Uruguay", "Italia", "Brasil", "Alemania"],
+    "respuestaCorrecta": "Italia",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección tiene más títulos mundiales?",
+    "opciones": ["Brasil", "Alemania", "Italia", "Argentina"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador argentino ha jugado en Barcelona y PSG?",
+    "opciones": ["Lionel Messi", "Sergio Agüero", "Ángel Di María", "Javier Mascherano"],
+    "respuestaCorrecta": "Lionel Messi",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué equipo alemán ganó la Champions League en 2013?",
+    "opciones": ["Borussia Dortmund", "Bayern Múnich", "Bayer Leverkusen", "Schalke 04"],
+    "respuestaCorrecta": "Bayern Múnich",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Quién es conocido como 'La Pulga'?",
+    "opciones": ["Messi", "Suárez", "Neymar", "Mbappé"],
+    "respuestaCorrecta": "Messi",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué club español tiene por apodo 'Los Colchoneros'?",
+    "opciones": ["Atlético de Madrid", "Sevilla", "Valencia", "Villarreal"],
+    "respuestaCorrecta": "Atlético de Madrid",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Cuál fue el primer club en ganar la Champions League moderna cinco veces consecutivas?",
+    "opciones": ["Real Madrid", "AC Milan", "Ajax", "Bayern Múnich"],
+    "respuestaCorrecta": "Real Madrid",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué país ganó el primer Mundial de fútbol en 1930?",
+    "opciones": ["Argentina", "Brasil", "Uruguay", "Italia"],
+    "respuestaCorrecta": "Uruguay",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿En qué club europeo debutó Lionel Messi como profesional?",
+    "opciones": ["PSG", "Barcelona", "Newell’s Old Boys", "Manchester City"],
+    "respuestaCorrecta": "Barcelona",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 2006?",
+    "opciones": ["Francia", "Brasil", "Italia", "Alemania"],
+    "respuestaCorrecta": "Italia",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué estadio es conocido como 'El Teatro de los Sueños'?",
+    "opciones": ["Anfield", "Old Trafford", "Santiago Bernabéu", "San Siro"],
+    "respuestaCorrecta": "Old Trafford",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2007?",
+    "opciones": ["Kaká", "Ronaldinho", "Cristiano Ronaldo", "Messi"],
+    "respuestaCorrecta": "Kaká",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 2016?",
+    "opciones": ["Francia", "Alemania", "Portugal", "Italia"],
+    "respuestaCorrecta": "Portugal",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League 2012?",
+    "opciones": ["Bayern Múnich", "Chelsea", "Barcelona", "Inter"],
+    "respuestaCorrecta": "Chelsea",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador español marcó el gol de la final del Mundial 2010?",
+    "opciones": ["David Villa", "Andrés Iniesta", "Xavi Hernández", "Fernando Torres"],
+    "respuestaCorrecta": "Andrés Iniesta",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué país fue sede del Mundial 2014?",
+    "opciones": ["Sudáfrica", "Brasil", "Alemania", "Rusia"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué club italiano es conocido como 'La Vecchia Signora'?",
+    "opciones": ["AC Milan", "Inter", "Juventus", "Roma"],
+    "respuestaCorrecta": "Juventus",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa América Centenario 2016?",
+    "opciones": ["Chile", "Argentina", "Brasil", "Colombia"],
+    "respuestaCorrecta": "Chile",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 2014?",
+    "opciones": ["Messi", "Müller", "Neymar", "James Rodríguez"],
+    "respuestaCorrecta": "James Rodríguez",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la primera Champions League con el formato actual?",
+    "opciones": ["AC Milan", "Real Madrid", "Marseille", "Ajax"],
+    "respuestaCorrecta": "Marseille",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué país ganó el Mundial Sub-20 en 2005?",
+    "opciones": ["Brasil", "Argentina", "España", "Nigeria"],
+    "respuestaCorrecta": "Argentina",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador marcó el gol decisivo en la final de la Champions 1999?",
+    "opciones": ["Solskjær", "Beckham", "Giggs", "Scholes"],
+    "respuestaCorrecta": "Solskjær",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección africana fue la primera en llegar a cuartos de final de un Mundial?",
+    "opciones": ["Nigeria", "Camerún", "Senegal", "Ghana"],
+    "respuestaCorrecta": "Camerún",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Europa League 2021?",
+    "opciones": ["Manchester United", "Villarreal", "Sevilla", "Arsenal"],
+    "respuestaCorrecta": "Villarreal",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial femenino en 2019?",
+    "opciones": ["Alemania", "Estados Unidos", "Francia", "Japón"],
+    "respuestaCorrecta": "Estados Unidos",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club fue conocido como 'Los Galácticos'?",
+    "opciones": ["Barcelona", "Manchester United", "Real Madrid", "PSG"],
+    "respuestaCorrecta": "Real Madrid",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue expulsado en la final del Mundial 2006 por un cabezazo?",
+    "opciones": ["Materazzi", "Zidane", "Cannavaro", "Pirlo"],
+    "respuestaCorrecta": "Zidane",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1998?",
+    "opciones": ["Brasil", "Croacia", "Francia", "Italia"],
+    "respuestaCorrecta": "Francia",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 2004 dando la sorpresa?",
+    "opciones": ["AC Milan", "Real Madrid", "Porto", "Monaco"],
+    "respuestaCorrecta": "Porto",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador es conocido como 'El Niño'?",
+    "opciones": ["David Villa", "Fernando Torres", "Raúl González", "Morientes"],
+    "respuestaCorrecta": "Fernando Torres",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué país fue sede del Mundial de 2002?",
+    "opciones": ["Japón", "Corea del Sur", "Japón y Corea del Sur", "China"],
+    "respuestaCorrecta": "Japón y Corea del Sur",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club inglés ganó la Champions League en 2008?",
+    "opciones": ["Arsenal", "Liverpool", "Chelsea", "Manchester United"],
+    "respuestaCorrecta": "Manchester United",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa América 2015?",
+    "opciones": ["Argentina", "Brasil", "Chile", "Uruguay"],
+    "respuestaCorrecta": "Chile",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2004?",
+    "opciones": ["Shevchenko", "Ronaldinho", "Henry", "Ronaldo"],
+    "respuestaCorrecta": "Shevchenko",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1999?",
+    "opciones": ["Bayern Múnich", "Manchester United", "Juventus", "Real Madrid"],
+    "respuestaCorrecta": "Manchester United",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1958?",
+    "opciones": ["Brasil", "Suecia", "Alemania", "Uruguay"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador portugués ganó la Eurocopa 2016 como capitán?",
+    "opciones": ["Pepe", "Cristiano Ronaldo", "João Moutinho", "Nani"],
+    "respuestaCorrecta": "Cristiano Ronaldo",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club español ganó la Europa League tres veces consecutivas entre 2014 y 2016?",
+    "opciones": ["Atlético de Madrid", "Valencia", "Sevilla", "Villarreal"],
+    "respuestaCorrecta": "Sevilla",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1974?",
+    "opciones": ["Brasil", "Países Bajos", "Alemania Occidental", "Italia"],
+    "respuestaCorrecta": "Alemania Occidental",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador argentino fue máximo goleador del Mundial 1986?",
+    "opciones": ["Maradona", "Lineker", "Careca", "Platini"],
+    "respuestaCorrecta": "Lineker",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club fue el primer campeón de la Premier League en 1992-93?",
+    "opciones": ["Arsenal", "Blackburn Rovers", "Manchester United", "Liverpool"],
+    "respuestaCorrecta": "Manchester United",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa Confederaciones 2013?",
+    "opciones": ["España", "Italia", "Brasil", "Alemania"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador marcó el gol de la final de la Eurocopa 2004?",
+    "opciones": ["Charisteas", "Figo", "Ronaldo", "Deco"],
+    "respuestaCorrecta": "Charisteas",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club francés ganó la Ligue 1 invicto en la temporada 1994-95?",
+    "opciones": ["PSG", "Lyon", "Nantes", "Monaco"],
+    "respuestaCorrecta": "Nantes",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1966?",
+    "opciones": ["Alemania", "Brasil", "Italia", "Inglaterra"],
+    "respuestaCorrecta": "Inglaterra",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 2010?",
+    "opciones": ["Bayern Múnich", "Inter de Milán", "Barcelona", "Chelsea"],
+    "respuestaCorrecta": "Inter de Milán",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue conocido como 'El Pibe de Oro'?",
+    "opciones": ["Messi", "Maradona", "Riquelme", "Tevez"],
+    "respuestaCorrecta": "Maradona",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 2022?",
+    "opciones": ["Francia", "Brasil", "Argentina", "Croacia"],
+    "respuestaCorrecta": "Argentina",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador histórico del Real Madrid?",
+    "opciones": ["Raúl", "Cristiano Ronaldo", "Karim Benzema", "Di Stéfano"],
+    "respuestaCorrecta": "Cristiano Ronaldo",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League 2023?",
+    "opciones": ["Inter", "Manchester City", "Real Madrid", "PSG"],
+    "respuestaCorrecta": "Manchester City",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Eurocopa 2008?",
+    "opciones": ["Alemania", "España", "Italia", "Países Bajos"],
+    "respuestaCorrecta": "España",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué entrenador dirigió a España en el Mundial 2010?",
+    "opciones": ["Luis Aragonés", "Vicente del Bosque", "Julen Lopetegui", "Luis Enrique"],
+    "respuestaCorrecta": "Vicente del Bosque",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la primera edición de la Premier League femenina (WSL)?",
+    "opciones": ["Arsenal", "Chelsea", "Manchester City", "Everton"],
+    "respuestaCorrecta": "Arsenal",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1994?",
+    "opciones": ["Italia", "Brasil", "Alemania", "Argentina"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro 2022?",
+    "opciones": ["Lionel Messi", "Karim Benzema", "Kylian Mbappé", "Robert Lewandowski"],
+    "respuestaCorrecta": "Karim Benzema",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League 2015?",
+    "opciones": ["Juventus", "Barcelona", "Real Madrid", "Atlético de Madrid"],
+    "respuestaCorrecta": "Barcelona",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 2012?",
+    "opciones": ["Italia", "Alemania", "España", "Portugal"],
+    "respuestaCorrecta": "España",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 2018?",
+    "opciones": ["Mbappé", "Harry Kane", "Griezmann", "Lukaku"],
+    "respuestaCorrecta": "Harry Kane",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League 2020?",
+    "opciones": ["PSG", "Bayern Múnich", "Manchester City", "Barcelona"],
+    "respuestaCorrecta": "Bayern Múnich",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial femenino 2023?",
+    "opciones": ["Estados Unidos", "España", "Inglaterra", "Alemania"],
+    "respuestaCorrecta": "España",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador tiene el récord de más goles en una sola temporada de LaLiga?",
+    "opciones": ["Cristiano Ronaldo", "Lionel Messi", "Luis Suárez", "Karim Benzema"],
+    "respuestaCorrecta": "Lionel Messi",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club inglés ganó la Premier League 2015-2016 sorprendiendo al mundo?",
+    "opciones": ["Tottenham", "Arsenal", "Leicester City", "Chelsea"],
+    "respuestaCorrecta": "Leicester City",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 2019?",
+    "opciones": ["Tottenham", "Liverpool", "Ajax", "Barcelona"],
+    "respuestaCorrecta": "Liverpool",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1978?",
+    "opciones": ["Brasil", "Argentina", "Países Bajos", "Italia"],
+    "respuestaCorrecta": "Argentina",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1999?",
+    "opciones": ["Rivaldo", "Beckham", "Zidane", "Figo"],
+    "respuestaCorrecta": "Rivaldo",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Eurocopa 2000?",
+    "opciones": ["Italia", "Francia", "Países Bajos", "Alemania"],
+    "respuestaCorrecta": "Francia",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 2005 en la final conocida como 'El Milagro de Estambul'?",
+    "opciones": ["AC Milan", "Liverpool", "Chelsea", "Inter"],
+    "respuestaCorrecta": "Liverpool",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador histórico de la selección alemana?",
+    "opciones": ["Miroslav Klose", "Gerd Müller", "Thomas Müller", "Lukas Podolski"],
+    "respuestaCorrecta": "Miroslav Klose",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la primera edición de la Copa Libertadores en 1960?",
+    "opciones": ["Peñarol", "Santos", "River Plate", "Nacional"],
+    "respuestaCorrecta": "Peñarol",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2018?",
+    "opciones": ["Cristiano Ronaldo", "Luka Modrić", "Antoine Griezmann", "Kylian Mbappé"],
+    "respuestaCorrecta": "Luka Modrić",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1954?",
+    "opciones": ["Hungría", "Alemania Occidental", "Brasil", "Italia"],
+    "respuestaCorrecta": "Alemania Occidental",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 2011?",
+    "opciones": ["Manchester United", "Barcelona", "Real Madrid", "Inter"],
+    "respuestaCorrecta": "Barcelona",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Copa América 2019?",
+    "opciones": ["Brasil", "Argentina", "Perú", "Colombia"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador de la Eurocopa 2012?",
+    "opciones": ["Fernando Torres", "Mario Gómez", "Cristiano Ronaldo", "Balotelli"],
+    "respuestaCorrecta": "Fernando Torres",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1995?",
+    "opciones": ["Ajax", "AC Milan", "Juventus", "Barcelona"],
+    "respuestaCorrecta": "Ajax",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1990?",
+    "opciones": ["Argentina", "Alemania Occidental", "Italia", "Brasil"],
+    "respuestaCorrecta": "Alemania Occidental",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 2002?",
+    "opciones": ["Rivaldo", "Ronaldo Nazário", "Klose", "Ronaldinho"],
+    "respuestaCorrecta": "Ronaldo Nazário",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1997?",
+    "opciones": ["Borussia Dortmund", "Juventus", "Real Madrid", "Ajax"],
+    "respuestaCorrecta": "Borussia Dortmund",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 1996?",
+    "opciones": ["Inglaterra", "Alemania", "Francia", "República Checa"],
+    "respuestaCorrecta": "Alemania",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2001?",
+    "opciones": ["Michael Owen", "Raúl", "Rivaldo", "Figo"],
+    "respuestaCorrecta": "Michael Owen",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 2007?",
+    "opciones": ["AC Milan", "Liverpool", "Manchester United", "Chelsea"],
+    "respuestaCorrecta": "AC Milan",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial femenino 2015?",
+    "opciones": ["Japón", "Estados Unidos", "Alemania", "Inglaterra"],
+    "respuestaCorrecta": "Estados Unidos",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1950?",
+    "opciones": ["Brasil", "Uruguay", "Italia", "Suecia"],
+    "respuestaCorrecta": "Uruguay",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 2014?",
+    "opciones": ["Atlético de Madrid", "Real Madrid", "Bayern Múnich", "Chelsea"],
+    "respuestaCorrecta": "Real Madrid",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1995?",
+    "opciones": ["George Weah", "Roberto Baggio", "Romário", "Paolo Maldini"],
+    "respuestaCorrecta": "George Weah",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 1992?",
+    "opciones": ["Alemania", "Dinamarca", "Suecia", "Países Bajos"],
+    "respuestaCorrecta": "Dinamarca",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1996?",
+    "opciones": ["Juventus", "Ajax", "Milan", "Borussia Dortmund"],
+    "respuestaCorrecta": "Juventus",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1998?",
+    "opciones": ["Ronaldo", "Suker", "Batistuta", "Vieri"],
+    "respuestaCorrecta": "Suker",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Copa América 2007?",
+    "opciones": ["Brasil", "Argentina", "Chile", "México"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1989?",
+    "opciones": ["AC Milan", "Steaua Bucarest", "Barcelona", "Benfica"],
+    "respuestaCorrecta": "AC Milan",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1938?",
+    "opciones": ["Italia", "Hungría", "Brasil", "Alemania"],
+    "respuestaCorrecta": "Italia",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2010?",
+    "opciones": ["Iniesta", "Xavi", "Lionel Messi", "Sneijder"],
+    "respuestaCorrecta": "Lionel Messi",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Europa League 2010?",
+    "opciones": ["Atlético de Madrid", "Fulham", "Liverpool", "Porto"],
+    "respuestaCorrecta": "Atlético de Madrid",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial Sub-17 en 2019?",
+    "opciones": ["Brasil", "México", "Francia", "España"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador de la Premier League 2017-2018?",
+    "opciones": ["Harry Kane", "Mohamed Salah", "Agüero", "Lukaku"],
+    "respuestaCorrecta": "Mohamed Salah",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1987?",
+    "opciones": ["Porto", "Bayern Múnich", "Real Madrid", "Benfica"],
+    "respuestaCorrecta": "Porto",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 1988?",
+    "opciones": ["Alemania", "Países Bajos", "Italia", "URSS"],
+    "respuestaCorrecta": "Países Bajos",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1998?",
+    "opciones": ["Zidane", "Ronaldo", "Bergkamp", "Raúl"],
+    "respuestaCorrecta": "Zidane",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1982?",
+    "opciones": ["Aston Villa", "Liverpool", "Hamburgo", "Juventus"],
+    "respuestaCorrecta": "Aston Villa",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1934?",
+    "opciones": ["Italia", "Checoslovaquia", "Alemania", "Austria"],
+    "respuestaCorrecta": "Italia",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1970?",
+    "opciones": ["Pelé", "Gerd Müller", "Jairzinho", "Tostão"],
+    "respuestaCorrecta": "Gerd Müller",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1977?",
+    "opciones": ["Liverpool", "Bayern Múnich", "Juventus", "Ajax"],
+    "respuestaCorrecta": "Liverpool",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa América 2004?",
+    "opciones": ["Brasil", "Argentina", "Uruguay", "Chile"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1992?",
+    "opciones": ["Van Basten", "Stoichkov", "Matthäus", "Baggio"],
+    "respuestaCorrecta": "Van Basten",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1971?",
+    "opciones": ["Ajax", "Inter", "Celtic", "Leeds United"],
+    "respuestaCorrecta": "Ajax",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial femenino 2007?",
+    "opciones": ["Alemania", "Brasil", "Estados Unidos", "Noruega"],
+    "respuestaCorrecta": "Alemania",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador de LaLiga 2015-2016?",
+    "opciones": ["Luis Suárez", "Cristiano Ronaldo", "Messi", "Griezmann"],
+    "respuestaCorrecta": "Luis Suárez",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1968?",
+    "opciones": ["Manchester United", "Benfica", "Real Madrid", "Inter"],
+    "respuestaCorrecta": "Manchester United",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 1984?",
+    "opciones": ["Francia", "España", "Alemania", "Portugal"],
+    "respuestaCorrecta": "Francia",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2003?",
+    "opciones": ["Nedvěd", "Henry", "Maldini", "Raúl"],
+    "respuestaCorrecta": "Nedvěd",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1967?",
+    "opciones": ["Celtic", "Inter", "Benfica", "Real Madrid"],
+    "respuestaCorrecta": "Celtic",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial Sub-20 en 1999?",
+    "opciones": ["España", "Argentina", "Brasil", "Portugal"],
+    "respuestaCorrecta": "España",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1994?",
+    "opciones": ["Stoichkov", "Romário", "Baggio", "Klinsmann"],
+    "respuestaCorrecta": "Stoichkov",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1965?",
+    "opciones": ["Inter", "Benfica", "Real Madrid", "Milan"],
+    "respuestaCorrecta": "Inter",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa América 1995?",
+    "opciones": ["Uruguay", "Brasil", "Argentina", "Chile"],
+    "respuestaCorrecta": "Uruguay",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1987?",
+    "opciones": ["Ruud Gullit", "Platini", "Van Basten", "Matthäus"],
+    "respuestaCorrecta": "Ruud Gullit",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1970?",
+    "opciones": ["Feyenoord", "Celtic", "Ajax", "Inter"],
+    "respuestaCorrecta": "Feyenoord",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1982?",
+    "opciones": ["Italia", "Alemania", "Brasil", "Argentina"],
+    "respuestaCorrecta": "Italia",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1978?",
+    "opciones": ["Kempes", "Rensenbrink", "Zico", "Passarella"],
+    "respuestaCorrecta": "Kempes",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1966?",
+    "opciones": ["Real Madrid", "Partizan", "Inter", "Benfica"],
+    "respuestaCorrecta": "Real Madrid",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 1976?",
+    "opciones": ["Checoslovaquia", "Alemania", "Países Bajos", "Italia"],
+    "respuestaCorrecta": "Checoslovaquia",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1989?",
+    "opciones": ["Van Basten", "Baresi", "Rijkaard", "Matthäus"],
+    "respuestaCorrecta": "Van Basten",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1978?",
+    "opciones": ["Liverpool", "Club Brugge", "Juventus", "Ajax"],
+    "respuestaCorrecta": "Liverpool",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial femenino 2011?",
+    "opciones": ["Japón", "Estados Unidos", "Alemania", "Brasil"],
+    "respuestaCorrecta": "Japón",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1966?",
+    "opciones": ["Eusébio", "Bobby Charlton", "Hurst", "Beckenbauer"],
+    "respuestaCorrecta": "Eusébio",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1963?",
+    "opciones": ["AC Milan", "Benfica", "Real Madrid", "Inter"],
+    "respuestaCorrecta": "AC Milan",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa América 1987?",
+    "opciones": ["Uruguay", "Chile", "Brasil", "Argentina"],
+    "respuestaCorrecta": "Uruguay",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1983?",
+    "opciones": ["Michel Platini", "Zico", "Rummenigge", "Falcão"],
+    "respuestaCorrecta": "Michel Platini",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1964?",
+    "opciones": ["Inter", "Real Madrid", "Benfica", "Partizan"],
+    "respuestaCorrecta": "Inter",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1962?",
+    "opciones": ["Brasil", "Checoslovaquia", "Chile", "Uruguay"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1958?",
+    "opciones": ["Just Fontaine", "Pelé", "Vavá", "Rahn"],
+    "respuestaCorrecta": "Just Fontaine",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1986?",
+    "opciones": ["Alemania", "Argentina", "Brasil", "Italia"],
+    "respuestaCorrecta": "Argentina",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 2021?",
+    "opciones": ["Manchester City", "Chelsea", "Real Madrid", "PSG"],
+    "respuestaCorrecta": "Chelsea",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador es conocido como 'O Fenômeno'?",
+    "opciones": ["Ronaldinho", "Ronaldo Nazário", "Romário", "Kaká"],
+    "respuestaCorrecta": "Ronaldo Nazário",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué país ganó la Eurocopa 2024?",
+    "opciones": ["Inglaterra", "España", "Francia", "Alemania"],
+    "respuestaCorrecta": "España",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1975?",
+    "opciones": ["Bayern Múnich", "Leeds United", "Ajax", "Liverpool"],
+    "respuestaCorrecta": "Bayern Múnich",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1970?",
+    "opciones": ["Italia", "Brasil", "Alemania", "Uruguay"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1997?",
+    "opciones": ["Ronaldo Nazário", "Zidane", "Del Piero", "Bergkamp"],
+    "respuestaCorrecta": "Ronaldo Nazário",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1973?",
+    "opciones": ["Ajax", "Juventus", "Celtic", "Inter"],
+    "respuestaCorrecta": "Ajax",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa América 2011?",
+    "opciones": ["Brasil", "Uruguay", "Argentina", "Paraguay"],
+    "respuestaCorrecta": "Uruguay",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 2010?",
+    "opciones": ["Villa", "Forlán", "Thomas Müller", "Sneijder"],
+    "respuestaCorrecta": "Thomas Müller",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1974?",
+    "opciones": ["Bayern Múnich", "Atlético de Madrid", "Liverpool", "Ajax"],
+    "respuestaCorrecta": "Bayern Múnich",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 2002?",
+    "opciones": ["Alemania", "Brasil", "Francia", "Italia"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 1996?",
+    "opciones": ["Sammer", "Ronaldo", "Weah", "Shearer"],
+    "respuestaCorrecta": "Sammer",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1986?",
+    "opciones": ["Steaua Bucarest", "Barcelona", "Porto", "Real Madrid"],
+    "respuestaCorrecta": "Steaua Bucarest",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 1980?",
+    "opciones": ["Italia", "Alemania Occidental", "Bélgica", "Países Bajos"],
+    "respuestaCorrecta": "Alemania Occidental",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1982?",
+    "opciones": ["Paolo Rossi", "Zico", "Rummenigge", "Boniek"],
+    "respuestaCorrecta": "Paolo Rossi",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1984?",
+    "opciones": ["Liverpool", "Roma", "Juventus", "Hamburgo"],
+    "respuestaCorrecta": "Liverpool",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1928?",
+    "opciones": ["Uruguay", "Argentina", "Italia", "Brasil"],
+    "respuestaCorrecta": "Uruguay",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2002?",
+    "opciones": ["Ronaldo Nazário", "Roberto Carlos", "Raúl", "Kahn"],
+    "respuestaCorrecta": "Ronaldo Nazário",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1979?",
+    "opciones": ["Liverpool", "Nottingham Forest", "Hamburgo", "Ajax"],
+    "respuestaCorrecta": "Nottingham Forest",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 2014?",
+    "opciones": ["Argentina", "Brasil", "Alemania", "España"],
+    "respuestaCorrecta": "Alemania",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 2006?",
+    "opciones": ["Klose", "Henry", "Ronaldo", "Totti"],
+    "respuestaCorrecta": "Klose",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1981?",
+    "opciones": ["Liverpool", "Real Madrid", "Bayern Múnich", "Inter"],
+    "respuestaCorrecta": "Liverpool",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa América 1999?",
+    "opciones": ["Brasil", "Uruguay", "Argentina", "México"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2014?",
+    "opciones": ["Cristiano Ronaldo", "Messi", "Neuer", "Robben"],
+    "respuestaCorrecta": "Cristiano Ronaldo",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1988?",
+    "opciones": ["PSV Eindhoven", "Benfica", "Milan", "Real Madrid"],
+    "respuestaCorrecta": "PSV Eindhoven",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1930?",
+    "opciones": ["Argentina", "Uruguay", "Brasil", "Italia"],
+    "respuestaCorrecta": "Uruguay",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1954?",
+    "opciones": ["Kocsis", "Puskás", "Rahn", "Hidegkuti"],
+    "respuestaCorrecta": "Kocsis",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1972?",
+    "opciones": ["Ajax", "Inter", "Juventus", "Benfica"],
+    "respuestaCorrecta": "Ajax",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 2018?",
+    "opciones": ["Croacia", "Francia", "Bélgica", "Brasil"],
+    "respuestaCorrecta": "Francia",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2005?",
+    "opciones": ["Ronaldinho", "Lampard", "Gerrard", "Henry"],
+    "respuestaCorrecta": "Ronaldinho",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1980?",
+    "opciones": ["Nottingham Forest", "Hamburgo", "Liverpool", "Juventus"],
+    "respuestaCorrecta": "Nottingham Forest",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Eurocopa 1968?",
+    "opciones": ["Italia", "Yugoslavia", "URSS", "Alemania"],
+    "respuestaCorrecta": "Italia",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1990?",
+    "opciones": ["Schillaci", "Klinsmann", "Maradona", "Völler"],
+    "respuestaCorrecta": "Schillaci",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1983?",
+    "opciones": ["Hamburgo", "Juventus", "Liverpool", "Real Madrid"],
+    "respuestaCorrecta": "Hamburgo",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1998?",
+    "opciones": ["Brasil", "Italia", "Francia", "Croacia"],
+    "respuestaCorrecta": "Francia",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2013?",
+    "opciones": ["Cristiano Ronaldo", "Messi", "Ribéry", "Iniesta"],
+    "respuestaCorrecta": "Cristiano Ronaldo",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1976?",
+    "opciones": ["Bayern Múnich", "Saint-Étienne", "Ajax", "Liverpool"],
+    "respuestaCorrecta": "Bayern Múnich",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1958?",
+    "opciones": ["Brasil", "Suecia", "Alemania", "Uruguay"],
+    "respuestaCorrecta": "Brasil",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 2018?",
+    "opciones": ["Mbappé", "Harry Kane", "Griezmann", "Lukaku"],
+    "respuestaCorrecta": "Harry Kane",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1985?",
+    "opciones": ["Juventus", "Liverpool", "Hamburgo", "Milan"],
+    "respuestaCorrecta": "Juventus",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó la Copa América 1993?",
+    "opciones": ["Argentina", "Brasil", "Uruguay", "Colombia"],
+    "respuestaCorrecta": "Argentina",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué jugador ganó el Balón de Oro en 2000?",
+    "opciones": ["Figo", "Zidane", "Rivaldo", "Raúl"],
+    "respuestaCorrecta": "Figo",
+    "nivel": "medio"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1969?",
+    "opciones": ["AC Milan", "Ajax", "Inter", "Benfica"],
+    "respuestaCorrecta": "AC Milan",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 1966?",
+    "opciones": ["Alemania", "Brasil", "Italia", "Inglaterra"],
+    "respuestaCorrecta": "Inglaterra",
+    "nivel": "fácil"
+  },
+  {
+    "pregunta": "¿Qué jugador fue máximo goleador del Mundial 1974?",
+    "opciones": ["Lato", "Müller", "Cruyff", "Breitner"],
+    "respuestaCorrecta": "Lato",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué club ganó la Champions League en 1988-89?",
+    "opciones": ["AC Milan", "Steaua", "Barcelona", "Real Madrid"],
+    "respuestaCorrecta": "AC Milan",
+    "nivel": "difícil"
+  },
+  {
+    "pregunta": "¿Qué selección ganó el Mundial de 2010?",
+    "opciones": ["España", "Países Bajos", "Alemania", "Brasil"],
+    "respuestaCorrecta": "España",
+    "nivel": "fácil"
+  }
+]
